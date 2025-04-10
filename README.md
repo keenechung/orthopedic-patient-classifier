@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A multi-class classification machine learning model that predicts disc hernia (Herniated Disc) or spondylolisthesis in orthopedic patients based using six biomechanical data points.
+A multi-class classification machine learning model that predicts disc hernia (Herniated Disc) or spondylolisthesis in orthopedic patients using six biomechanical data points.
 
 ## Information
 

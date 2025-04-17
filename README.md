@@ -22,7 +22,7 @@
         - Patients with disc hernia (Herniated Disc) (60)
         - Patients with Spondylolisthesis (150)
 
-## Methodology:
+## Methodology
 
 - Understand Datasets & Data cleaning
 - Exploratory Data Analysis (EDA)
